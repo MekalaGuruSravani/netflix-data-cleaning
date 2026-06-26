@@ -1,6 +1,6 @@
 /*** Netflix Data Cleaning & Preprocessing ***\
 
-Elevate Lab – Data Analyst Internship Task 1
+ Data Analyst Internship Task 1
 Name: Mekala Guru Sravani
 
 * Project Overview
